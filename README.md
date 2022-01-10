@@ -3,9 +3,9 @@
 ## Run App
 
 ### Run Server
-cd server/
-npm run server
+- cd server/
+- npm run server
 
 ### Run Client
-cd client/
-npm start
+- cd client/
+- npm start
